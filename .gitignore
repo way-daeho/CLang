@@ -1,1 +1,3 @@
-allScanf, c2f, scanf
+./scanf/allScanf
+./scanf/c2f
+./scanf/scanf
