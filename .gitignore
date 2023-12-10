@@ -14,5 +14,9 @@ pointer/arrNameIsAddr
 pointer/doublePointer
 pointer/pointerArray
 pointer/thisIsArrayPointer
-
+function/basicFuntion
+function/pointerParamFunction
+function/swap
+function/prototype
+function/arrayParam
 
