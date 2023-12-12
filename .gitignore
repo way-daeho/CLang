@@ -19,4 +19,6 @@ function/pointerParamFunction
 function/swap
 function/prototype
 function/arrayParam
-
+function/2DArray
+function/functionPointer
+function/reviewPointerParam
