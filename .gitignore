@@ -22,3 +22,16 @@ function/arrayParam
 function/2DArray
 function/functionPointer
 function/reviewPointerParam
+string/nullTerminater
+string/reviewPointer
+string/startString
+string/startString
+string/changeChar
+string/strlen
+string/inputString
+string/weirdScanf
+string/weirdS
+string/becareful%c
+string/becareful%c
+string/copy_str
+
