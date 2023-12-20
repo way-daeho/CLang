@@ -34,4 +34,14 @@ string/weirdS
 string/becareful%c
 string/becareful%c
 string/copy_str
-
+struct/first_struct
+struct/second_struct
+struct/struct_example
+struct/struct_pointer
+struct/practice_structP
+struct/parameter_type_struct
+struct/practice_structP
+struct/struct_assign
+struct/struct_in_struct
+struct/enum
+struct/union
