@@ -54,3 +54,6 @@ mainFunction/noReturnFunction
 mainFunction/onlyAddress
 mainFunction/voidParameter
 mainFunction/parameterOfMain
+DynamicMemoryAllocation/malloc
+DynamicMemoryAllocation/mallocFirst
+DynamicMemoryAllocation/UsePointerArray
