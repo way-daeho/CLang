@@ -45,3 +45,4 @@ struct/struct_assign
 struct/struct_in_struct
 struct/enum
 struct/union
+Condition-of-parameter-survive-and-Struct-of-data-segmentation/main
