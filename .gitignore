@@ -57,3 +57,8 @@ mainFunction/parameterOfMain
 DynamicMemoryAllocation/malloc
 DynamicMemoryAllocation/mallocFirst
 DynamicMemoryAllocation/UsePointerArray
+DynamicMemoryAllocation/real2DArray
+DynamicMemoryAllocation/structMalloc
+DynamicMemoryAllocation/CreateNode
+DynamicMemoryAllocation/memfunction
+
