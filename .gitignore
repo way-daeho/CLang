@@ -61,4 +61,10 @@ DynamicMemoryAllocation/real2DArray
 DynamicMemoryAllocation/structMalloc
 DynamicMemoryAllocation/CreateNode
 DynamicMemoryAllocation/memfunction
-
+macroAndInline/macro
+macroAndInline/inline
+etcKeyword/loserOrWinner
+etcKeyword/calculator
+etcKeyword/typedef
+etcKeyword/pragmapack
+/
