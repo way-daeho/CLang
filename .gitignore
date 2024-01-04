@@ -67,4 +67,9 @@ etcKeyword/loserOrWinner
 etcKeyword/calculator
 etcKeyword/typedef
 etcKeyword/pragmapack
-/
+talkWithFile/EOFIS-1
+talkWithFile/fseekStdout
+talkWithFile/inputFromFile
+talkWithFile/fseekToStart
+talkWithFile/inputToChar
+talkWithFile/printToFile
