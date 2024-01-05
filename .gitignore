@@ -73,3 +73,8 @@ talkWithFile/inputFromFile
 talkWithFile/fseekToStart
 talkWithFile/inputToChar
 talkWithFile/printToFile
+talkWithFile/changeAtoa
+talkWithFile/exampleOffseek
+talkWithFile/fileGetChar
+talkWithFile/fopenr+
+talkWithFile/showLastChar
