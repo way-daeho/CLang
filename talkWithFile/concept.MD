@@ -104,4 +104,6 @@ FILE *fp = fopen("some_data.txt", "r+");
  반드시 쓰기 작업 후 다시 읽기 작업을 할 때 fflush 나 fseek 함수를 호출.
 
  ## fopen 함수의 기타 인자 사용
- 
+```
+/* fopen 의 'append' 기능 사용 */
+```
